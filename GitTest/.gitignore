@@ -1,5 +1,5 @@
 /src/
-.settings
+*.settings
 bin/com
 .classpath
 .project
