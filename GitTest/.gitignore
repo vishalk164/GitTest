@@ -1,1 +1,5 @@
 /src/
+.settings
+bin/com
+.classpath
+.project
